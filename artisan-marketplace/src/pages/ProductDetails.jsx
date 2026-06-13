@@ -7,6 +7,7 @@ import {
 
 import "./ProductDetails.css";
 
+
 const products = [
   {
     id: 1,
