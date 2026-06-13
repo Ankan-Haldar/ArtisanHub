@@ -1,0 +1,42 @@
+.form-input {
+  width: 100%;
+
+  padding: 15px;
+
+  margin-bottom: 15px;
+
+  border-radius: 12px;
+
+  border: 1px solid rgba(
+    255,
+    255,
+    255,
+    0.1
+  );
+
+  background: #020617;
+
+  color: white;
+}
+
+.gradient-btn {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+
+  border: none;
+
+  padding: 15px 25px;
+
+  border-radius: 12px;
+
+  color: white;
+
+  cursor: pointer;
+
+  background: linear-gradient(
+    90deg,
+    #8b5cf6,
+    #d946ef
+  );
+}

@@ -1,0 +1,14 @@
+:root {
+  --primary: #8b5cf6;
+  --secondary: #d946ef;
+
+  --bg: #020617;
+  --card-bg: #0f172a;
+
+  --text: #ffffff;
+  --text-muted: #94a3b8;
+
+  --container: 1400px;
+
+  --radius: 24px;
+}
